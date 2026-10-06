@@ -3,7 +3,7 @@
 // Verification needs only the public key below, so it works with no network.
 // The matching private key never ships with the app.
 
-export const PUBLIC_KEY_JWK = {"kty":"EC","crv":"P-256","x":"d5I3YRV2gB9cXlM4tThbAjtQeYTB3C_zefGtqOMlmnM","y":"lHPbAA_DDEL77J4JyulxrMWV_qs3f2dbEKrJ5ilnvLc"};
+export const PUBLIC_KEY_JWK = {"kty":"EC","crv":"P-256","x":"-7eeRpQ_Bj4kuX3d2NB_k2gFmvypm8JfTYjeLSbH3wg","y":"zHZbwRCatgD6sFKqu3FjKYKLOT07ZtE4FSMhpEn1DxE"};
 
 export const TRIAL_JOBS = 20;
 
