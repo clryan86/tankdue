@@ -1,0 +1,12 @@
+{
+  "name": "tankdue",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "TankDue - offline-first septic pump-out records, hauling tickets and reminders",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "serve": "python3 -m http.server 8080",
+    "e2e": "node e2e/smoke.mjs && node e2e/regressions.mjs"
+  }
+}
